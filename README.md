@@ -13,7 +13,7 @@ B.C.A.:- Bachelor Computer Application
   
 **Learning Journey 🌱**
 
-I'm currently focused on mastering Back-End technology and continuously expanding my knowledge in Back-End web app development.
+"My primary focus is on advancing my knowledge in back-end technology, with a continual emphasis on improving my proficiency in server-side web app development."
 
 **Let's Connect 📫**
 
