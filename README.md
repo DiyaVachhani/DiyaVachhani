@@ -9,7 +9,7 @@ B.C.A.:- Bachelor Computer Application
 
  - Programming Languages: Python
 
-- Other Skills: Problem Solving, Team Collaboration
+- Other Skills: Problem Solver, Team Collaboration
   
 **Learning Journey 🌱**
 
